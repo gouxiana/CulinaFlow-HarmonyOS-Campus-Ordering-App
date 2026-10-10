@@ -49,9 +49,9 @@ The project currently uses local mock menu data. Network helper classes are incl
 ## Demo and Documentation
 
 - [Watch the product walkthrough and interaction demo](https://github.com/gouxiana/harmonyos-campus-ordering/releases/tag/v1.0-demo)
-- [Read the project overview](docs/project-overview.md)
+- [Read the project overview](PROJECT_OVERVIEW.md)
 
-The Release contains the demonstration video. The source tree intentionally excludes generated build output, IDE caches, dependency folders, and signing-related local configuration.
+The repository root also contains `harmonyos-campus-ordering-source.zip`, a clean source archive that intentionally excludes generated build output, IDE caches, dependency folders, and signing-related local configuration.
 
 ## Scope and Limitations
 
